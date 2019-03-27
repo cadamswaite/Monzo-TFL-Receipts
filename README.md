@@ -2,9 +2,10 @@ TFL Receipts in Monzo
 =========
 
 Download Journey history CSVs from https://contactless.tfl.gov.uk and put them in TFL_CSV folder.
-[Exporting from TFL website](images/exporting_tfl.png)
 
-[Resulting receipt]
+<img src="images/exporting_tfl.png" width="400">
+<img src="images/tfl_receipt.png" width="200">
+
 
 
 ## Getting Started
